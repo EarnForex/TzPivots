@@ -6,6 +6,6 @@ The indicator is highly customizable - both in terms of its looks and in terms o
 
 ![TzPivots with most of its supported levels turned on and shown on this Bitcoin chart](https://github.com/EarnForex/TzPivots/blob/main/README_Images/tzpivots-pivots-fibo-high-low-close-labels.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/TzPivots/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/TzPivots/
 
 Any contributions to the code are welcome!
